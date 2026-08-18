@@ -1,14 +1,5 @@
 # Sales Data Analysis & Visualization in Python
 
-<p align="center">
-  <strong>Sales Data Analysis and Visualization Using Python</strong>
-</p>
-
-<p align="center">
-  A Python-based data analysis project focused on exploring sales data, identifying trends, and creating meaningful visualizations for business insights.
-</p>
-
----
 
 ## Overview
 
